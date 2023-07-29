@@ -145,9 +145,20 @@ app.MapGet("/blogs/{id}", (int id) =>
     return Results.Ok(blog);
 });
 
+app.MapGet("/articles/{id}", (int id) =>
+{
+    Article article = articles.FirstOrDefault(b => b.Id == id); //find article by id
+    if (article == null)
+    {
+        return Results.NotFound();
+    }
+    article.comments = comments.Where(c => c.articleId == id).ToList(); //put all comments with article id into a list
+    return Results.Ok(article);
+});
+
 app.MapPut("/articles/{id}", (int id, Article article) =>
 {
-    Article articleToUpdate = articles.FirstOrDefault(a => a.Id == id);
+    Article articleToUpdate = articles.FirstOrDefault(a => a.Id == id); //find article by id
     int articleIndex = articles.IndexOf(articleToUpdate);
     if (articleToUpdate == null)
     {
@@ -157,7 +168,7 @@ app.MapPut("/articles/{id}", (int id, Article article) =>
     {
         return Results.BadRequest();
     }
-    articles[articleIndex] = article;
+    articles[articleIndex] = article; //replace the found article with the updated article payload
     return Results.Ok();
 });
 
@@ -166,6 +177,12 @@ app.MapDelete("/comments/{id}", (int id) =>
     Comment comment = comments.FirstOrDefault(c => c.Id == id);
     comments.Remove(comment);
     return Results.Ok(comments);
+});
+
+app.MapPost("/comments", (Comment comment) =>
+{
+    comment.Id = comments.Max(c => c.Id) + 1;
+    comments.Add(comment);
 });
 
 app.Run();
