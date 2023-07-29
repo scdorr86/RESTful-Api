@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIdVTaqwyu1awYwt21O/9PanAHyNV8w5AaHDTkpLX8LBLr/I3NaqLpu7rVdwsENGyPAACjZMpOZIDZ9wrc1rlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dorrissc\\workspace\\csharp\\RESTful APIs\\RESTful APIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorrissc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\dorrissc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dorrissc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\dorrissc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\dorrissc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\dorrissc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\RESTful APIs.exe
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\RESTful APIs.deps.json
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\RESTful APIs.runtimeconfig.json
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\RESTful APIs.dll
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\RESTful APIs.pdb
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.csproj.AssemblyReference.cache
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.AssemblyInfoInputs.cache
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.AssemblyInfo.cs
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.csproj.CoreCompileInputs.cache
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\staticwebassets\msbuild.RESTful APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTful APIs.props
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTful APIs.props
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTful APIs.props
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\scopedcss\bundle\RESTful APIs.styles.css
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.csproj.CopyComplete
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.dll
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\refint\RESTful APIs.dll
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.pdb
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\RESTful APIs.genruntimeconfig.cache
+C:\Users\dorrissc\workspace\csharp\RESTful APIs\obj\Debug\net6.0\ref\RESTful APIs.dll
